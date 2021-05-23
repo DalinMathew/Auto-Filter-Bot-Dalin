@@ -1,18 +1,18 @@
 # Adv Auto Filter Bot V2
 
 <p align="center">
-  <a href="https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2/stargazers">
+  <a href="https://github.com/DalinMathew/Auto-Filter-Bot-Dalin/stargazers">
     <img src="https://img.shields.io/github/stars/AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2?style=social">
 
   </a>
   
-  <a href="https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2/fork">
+  <a href="https://github.com/DalinMathew/Auto-Filter-Bot-Dalin/fork">
     <img src="https://img.shields.io/github/forks/AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2?label=Fork&style=social">
 
   </a>  
 </p>
 
-__This Is Just An Simple Advance Auto Filter Bot Complete Rewritten Version Of [Adv-Filter-Bot](https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot)..__
+__This Is Just An Simple Advance Auto Filter Bot Made By [Ragnar Lothbrock](https://t.me/null_fallaci)__
 
 __Just Sent Any Text As Query It Will Search For All Connected Chat's Files In Its MongoDB And Reply You With The Message Link As A Button__
 
@@ -73,7 +73,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2/tree/main">
+<a href="https://heroku.com/deploy?template=https://github.com/DalinMathew/Auto-Filter-Bot-Dalin/tree/main">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -92,7 +92,7 @@ python3 -m bot
 </details>
 
 ## Support   
-Join Our [Telegram Group](https://www.telegram.dog/CrazyBotszGrp) For Support/Assistance And Our [Channel](https://www.telegram.dog/CrazyBotsz) For Updates.   
+Join Our [Telegram Group](https://t.me/jointhisdiscussion) For Support/Assistance And Our [Channel](https://t.me/MalRok) For Updates.   
    
 Report Bugs, Give Feature Requests There..   
 Do Fork And Star The Repository If You Liked It.

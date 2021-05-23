@@ -1,16 +1,14 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) @AlbertEinsteinTG
+# (c) @DalinMathew
 
 class Translation(object):
     
-    START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
-
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
-
-For More Details Click Help Button Below..
-@CrazyBotsz
+    START_TEXT = """<b>Hey {} How are You!!</b>
+<i><b>King Ragnar👑
+That's My Name 😏 </b>
+എന്നെ <b><a href="https://t.me/jointhisdiscussion">Malayalam Rockers</a></b>ഗ്രൂപ്പിൽ മാത്രമേ ആഡ് ചെയ്യാൻ സാധിക്കൂ 🤣
+ഏതായാലും വന്നതല്ലേ ! നമ്മുടെ ഗ്രൂപ്പിലും ചാനലിലും ഒന്ന് ജോയിൻ ചെയ്തെരേ. 😁😁
 </i>"""    
     
     HELP_TEXT = """
@@ -43,16 +41,15 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@CrazyBotsz
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/AlbertEinstein_TG">AlbertEinstein_TG</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://t.me/null_fallaci">Ragnar Lothbrock</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
 <b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
 
-<b>➥ Source Code</b> : <i><a href="https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot">Click Me</a></i>
+<b>➥ Source Code</b> : <i><a href="https://github.com/DalinMathew/Auto-Filter-Bot-Dalin">Click Me</a></i>
 """
